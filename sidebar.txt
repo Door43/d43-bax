@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bax:home|Door43 (bax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bax|d43-bax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bax/archive/master.zip|d43-bax.zip]]
+
+**Recent Changes**
+{{changes>ns = bax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bax|Ethnologue data]]
+
